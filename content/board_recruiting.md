@@ -3,8 +3,9 @@ description: Information about applying for the board which we publicize every t
 ---
 
 # Board Recruiting
-
+<br/>
 Open positions will advertised in the months preceding the society’s Annual General Meeting.
+<br/><br/>
 
 ## Board Composition
 
@@ -36,7 +37,7 @@ Visionary: strong belief in our Mission: “Dev Edmonton Society is made up of p
 Connector: ability to identify and develop relationships to support our society.
 
 Accountability: To accept responsibility for actions, decisions and policies and to transparently report back to the members of our society as well as knowing our bylaws and procedures.
-
+<br/><br/><br/><br/>
 # Responsibilities
 
 ## Board Members
